@@ -1,0 +1,3 @@
+[submodule "EduMarketClient"]
+	path = EduMarketClient
+	url = https://github.com/zunohoang/EduMarketClient.git
